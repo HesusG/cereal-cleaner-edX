@@ -15,4 +15,14 @@
 ## Bonus
 
 * Try the following again but this time using `cereal_bonus.csv`, which does not include a header.
-# Python demo
+
+# Additional Material
+
+You can find more information on today's lesson. 
+
+- [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
+ 
+
+- [Difference betwen int and float](https://www.delftstack.com/howto/python/float-vs-int-in-python/)
+
+- [CSV Files History](https://blog.sqlizer.io/posts/csv-history/)
