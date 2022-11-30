@@ -26,3 +26,10 @@ You can find more information on today's lesson.
 - [Difference betwen int and float](https://www.delftstack.com/howto/python/float-vs-int-in-python/)
 
 - [CSV Files History](https://blog.sqlizer.io/posts/csv-history/)
+
+
+## FAQ: 
+
+Please find a set of frequently asked questions for the cereal cleaner activity in the following document:
+
+- [Class # - FAQ](https://docs.google.com/document/d/1MVl6ae33JBvjPIGN677Kqh4W7cvHDGAwNGJmG4AjnLI/edit?usp=sharing)
